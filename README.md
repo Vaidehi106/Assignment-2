@@ -13,7 +13,7 @@
     * If the number is even, the script prints a message indicating that the number is even, using an f-string to insert the value of `user` into the output.
     * If the number is odd, the script prints a message indicating that the number is odd, also using an f-string to insert the value of `user` into the output.
 
-#Task 2: Sum of Integers from 1 to 50 Using a Loop
+# Task 2: Sum of Integers from 1 to 50 Using a Loop
 1.  **Initialization:**
     * `sum = 0`: A variable named `sum` is initialized to 0. This variable will store the cumulative sum of the integers.
 
